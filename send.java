@@ -44,7 +44,7 @@ public class send {
 	public void buildGUI() //Simple GUI building
 	{
 
-	frame = new JFrame("Controller: By Palimar); //new JFrame
+	frame = new JFrame("Controller: By Palimar"); //new JFrame
 	frame.setSize(624,350);
 	frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	frame.setVisible(true);
